@@ -1,6 +1,5 @@
 package lib;
 
-import java.awt.Point;
 import lib.comparators.Distanceator;
 
 import lib.tilers.Tiler;
@@ -19,7 +18,10 @@ import java.util.Map;
 import java.util.Observable;
 import java.util.Observer;
 import java.util.Set;
+
 import lib.core.FractalModel;
+import lib.core.Point;
+
 import lib.utils.Utils;
 
 /**

@@ -3,7 +3,6 @@ package lib.core;
 
 import lib.transformations.ImageTransform;
 
-import java.awt.Point;
 import java.awt.image.BufferedImage;
 
 import java.io.Serializable;

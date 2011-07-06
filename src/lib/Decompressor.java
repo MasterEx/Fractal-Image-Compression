@@ -1,7 +1,6 @@
 package lib;
 
 import java.awt.Graphics;
-import java.awt.Point;
 import java.awt.image.BufferedImage;
 
 import java.util.HashMap;
@@ -11,6 +10,7 @@ import java.util.Observer;
 
 import lib.core.FractalModel;
 import lib.core.ImageHolder;
+import lib.core.Point;
 
 import lib.transformations.ImageTransform;
 

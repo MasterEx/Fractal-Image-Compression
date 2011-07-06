@@ -1,6 +1,6 @@
 package lib.utils;
 
-import java.awt.Point;
+import lib.core.Point;
 
 /**
  * useful generic utility tools
